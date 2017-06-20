@@ -6,4 +6,4 @@
 
 **Thoughts:** I'd like to be able to make some projects I'm proud of, but I struggle with "it's been done before"
 
-**Link to work:** [My Profile - you're probably aready here](github.com/wmpedersen)
+**Link to work:** [My Profile - you're probably aready here](https://github.com/wmpedersen)
